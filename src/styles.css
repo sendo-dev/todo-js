@@ -17,6 +17,14 @@ button:hover {
   color: #fff;
   cursor: pointer;
 }
+li {
+  margin-right: 8px;
+}
+.list-row {
+  display: flex;
+  align-items: center;
+  padding-bottom: 4px;
+}
 .title {
   text-align: center;
   margin-top: 0;
